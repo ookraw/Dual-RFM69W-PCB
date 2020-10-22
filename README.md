@@ -19,8 +19,7 @@ The licensing TLDR is: You are free to use, copy, distribute and transmit this S
 For more details see the [LICENSE](https://github.com/ookraw/Dual-RFM69W-PCB/blob/master/LICENSE)
 
 ### Context
-The described setup serves as a reference for the <br/>
-[OOK Raw Data Receiver](https://github.com/ookraw/OOK-Raw-Data-Receiver)
+The described setup serves as a reference for the [OOK Raw Data Receiver](https://github.com/ookraw/OOK-Raw-Data-Receiver)
 
 ### Special Requirement
 The enclosed zip-file specifies ten 0.8 mm slots. Make sure that these slots will be edge plated : <br/>
