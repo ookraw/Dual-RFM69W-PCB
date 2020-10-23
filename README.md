@@ -3,11 +3,12 @@ Dual RFM69W Transceiver PCB
 
 Designed by Felix Baessler, felix.baessler@gmail.com
 
-The project illustrates the problem that the costs for external protection and connection often exceed the prize you pay for internal electronic "ingrediants". 
+The project focuses on the minimization of the costs for connectors and enclosure which quite often even exceed the prize 
+you pay for your electronic components. In our daily use, a standard SD card box (ca. 53x43x7 mm) and a couple of steel needles did the job.
 
 ### Features:
-The HRD_S2.zip file contains all that is required to produce a PCB that fits into a standard SD card box <br/> 
-of ca. 53x43x7 mm (see illustrations in images folder):
+The HRD_S2.zip file contains all that is required to produce a PCB that fits into a SD card box : <br/> 
+
 - &nbsp;**2 Hope rfm69w radio modules** placed on a common bus
 - &nbsp;**1 Arduino compatible mini pro 3.3V (MEGA328P)** microcontroller <br/>
 - **10 standard Dupont connectors** fixed in 0.8 mm slots <br/>
