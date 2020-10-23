@@ -16,7 +16,7 @@ The HRD_S2.zip file contains all that is required to produce a PCB that fits int
 
 ### LICENSE
 This project is released under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).<br/>
-The licensing TLDR is: You are free to use, copy, distribute and transmit this Software for personal, non-commercial purposes, as long as you give attribution and share any modifications under the same license. Commercial or for-profit use requires a license.
+The licensing TLDR is: You are free to use, copy, distribute and transmit this Material for personal, non-commercial purposes, as long as you give attribution and share any modifications under the same license. Commercial or for-profit use requires a license. <br/>
 For more details see the [LICENSE](https://github.com/ookraw/Dual-RFM69W-PCB/blob/master/LICENSE)
 
 ### Context
